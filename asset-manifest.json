@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/css/main.1ef584e8.chunk.css",
+    "main.js": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/js/main.93db8f7e.chunk.js",
+    "main.js.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/js/main.93db8f7e.chunk.js.map",
+    "runtime-main.js": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/js/runtime-main.1f87fef3.js",
+    "runtime-main.js.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/js/runtime-main.1f87fef3.js.map",
+    "static/js/2.cb582261.chunk.js": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/js/2.cb582261.chunk.js",
+    "static/js/2.cb582261.chunk.js.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/js/2.cb582261.chunk.js.map",
+    "index.html": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/index.html",
+    "static/css/main.1ef584e8.chunk.css.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/css/main.1ef584e8.chunk.css.map",
+    "static/js/2.cb582261.chunk.js.LICENSE.txt": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/js/2.cb582261.chunk.js.LICENSE.txt",
+    "static/media/monstera.6257bc6b.jpg": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/media/monstera.6257bc6b.jpg",
+    "static/media/sun.26fb5ace.svg": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/media/sun.26fb5ace.svg",
+    "static/media/water.cceb486f.svg": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v2.0/static/media/water.cceb486f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f87fef3.js",
+    "static/js/2.cb582261.chunk.js",
+    "static/css/main.1ef584e8.chunk.css",
+    "static/js/main.93db8f7e.chunk.js"
+  ]
+}
